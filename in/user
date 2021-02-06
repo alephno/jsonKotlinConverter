@@ -1,0 +1,8 @@
+{
+  "id": 1234,
+  "secret": "abcd",
+  "users": [{
+    "name": "name",
+    "id": "id"
+  }]
+}
